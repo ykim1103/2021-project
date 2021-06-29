@@ -1,0 +1,5 @@
+classes=80
+train  = /home/kyj1103/darknet/data/bdd_train.txt
+valid  =/home/kyj1103/darknet/data/bdd_val.txt
+names = home/kyj1103/darknet/data/obj.names
+backup = /home/kyj1103/darknet/backup/
