@@ -2,12 +2,16 @@
 
 ###### bdd_train.txt : 트레인 시킬 이미지들의 리스트
 ###### bdd_val.txt : validation 이미지 셋들의 리스트
+###### kyjj.py : 모듈1. 영상에 간단한 사각형 출력한 모듈
+###### kyjj2.py : 모듈2. blobfromimage로 yolo 작업한 모듈
+###### kyjj3.py : 모듈3. dnndetectionmodel로 객체 검출한 모듈
+###### kyjj4.py : 모듈4. kyjj3.py에 블러 처리한 모듈
 ###### obj.data : class, train,valid,names,backup의 정보가 담긴 파일
 ###### obj.names : 검출할 객체들의 이름을 모아둔 파일
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
 ###### yolo.ipynb : yolo 객체검출, cv2.dnn.readNet 사용, 파일리스트 출력, 다크넷 결과화면, 다크넷 명령어 정리
-###### yolo_face : yolo, cv2.dnn_DetectionModel 사용
-###### yolo_test_result : yolo 학습시킨 weight파일로 test해서 나온 객체 결과 검출을 json파일로 정리
+###### yolo_face.ipynb : yolo, cv2.dnn_DetectionModel 사용, 블러처리 추가, gpu사용법 확인
+###### yolo_test_result.ipynb : yolo 학습시킨 weight파일로 test해서 나온 객체 결과 검출을 json파일로 정리
 
 
 
