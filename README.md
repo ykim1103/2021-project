@@ -7,7 +7,7 @@
 ###### kyjj3.py : 모듈3. dnndetectionmodel로 객체 검출한 모듈
 ###### kyjj4.py : 모듈4. kyjj3.py에 블러 처리한 모듈
 ###### kyjj5.py : 모듈5. gpu 설치후 만든 모듈
-###### kyjj6.py : 모듈6. 모듈5에 크롭 추가
+###### kyjj6.py : 모듈6. 모듈5에 크롭 추가 (마지막 프레임만)
 ###### obj.data : class, train,valid,names,backup의 정보가 담긴 파일
 ###### obj.names : 검출할 객체들의 이름을 모아둔 파일
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
