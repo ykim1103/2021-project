@@ -14,6 +14,7 @@
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
 ###### yolo.ipynb : yolo 객체검출, cv2.dnn.readNet 사용, 파일리스트 출력, 다크넷 결과화면, 다크넷 명령어 정리
 ###### yolo_face.ipynb : yolo, cv2.dnn_DetectionModel 사용, 블러처리 추가, gpu사용법 확인
+###### yolo_ipywidgets.ipynb : cv2.dnn_DetectionModel에 위젯 적용한 코드
 ###### yolo_test_result.ipynb : yolo 학습시킨 weight파일로 test해서 나온 객체 결과 검출을 json파일로 정리
 
 
