@@ -10,6 +10,7 @@
 ###### kyjj6.py : 모듈6. 모듈5에 크롭 추가 (마지막 프레임만)
 ###### kyjj7.py : 모듈7. 모듈6에 json추가 (마지막 프레임만)
 ###### kyjj8.py : 모듈8. 모듈7에 매 프레임별로 캡쳐에서 저장하는 기능 추가, json부분 프레임카운트 수정(fps-> framecount), total_frame 이라는 변수에 모든 frame 저장 후 리턴, total_frame길이 출력
+###### kyjj9.py : 모듀9. 모듈8에서 매프레임별 캡쳐해서 저장 삭제. 프레임별로 폴더 만들어서 그 안에 프레임별 객체 저장.
 ###### obj.data : class, train,valid,names,backup의 정보가 담긴 파일
 ###### obj.names : 검출할 객체들의 이름을 모아둔 파일
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
