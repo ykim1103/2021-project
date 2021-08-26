@@ -37,4 +37,4 @@
 
 ## 기타 사항
 1. voc2yolo_converter.ipynb 사용 시 'annotation'이라는 폴더를 생성하고 그 안에 'jpg'와 'xml'파일을 두면 'yolo'폴더에 txt파일이 생기고 'annotation.txt'에 주소리스트 생성.
-2. 
+- 참고 : https://bblib.net/entry/convert-voc-to-yolo-xml-to-yolo-xml-to-txt
