@@ -14,6 +14,7 @@
 ###### obj.data : class, train,valid,names,backup의 정보가 담긴 파일
 ###### obj.names : 검출할 객체들의 이름을 모아둔 파일
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
+###### voc2yolo_converter.ipynb : yolo 학습을 위해 xml to txt 
 ###### yolo.ipynb : yolo 객체검출, cv2.dnn.readNet 사용, 파일리스트 출력, 다크넷 결과화면, 다크넷 명령어 정리
 ###### yolo_face.ipynb : yolo, cv2.dnn_DetectionModel 사용, 블러처리 추가, gpu사용법 확인
 ###### yolo_ipywidgets.ipynb : cv2.dnn_DetectionModel에 위젯 적용한 코드
@@ -30,3 +31,10 @@
 
 3. 테스트 : 테스트를 하면 테스를 한 이미지 파일명, 포맷, 사이즈크기, 날짜, 객체 검출한 바운딩 박스 등 중요한 정보를 정리해서 json 파일로 만든다. 
 4. 모듈 : 모델을 모듈 형태로 만든다. 예:) 인풋(일반 동영상) -> 아웃풋(객체검출, 블러처리 된 영상) 형태로 나오는 py파일 만들기
+5. 주의 사항 : - 다크넷 학습 시 이미지는 png 사용 불가 하다. 다크넷으로 학습할 때는 jpg이미지 형태를 사용한다.
+
+
+
+## 기타 사항
+1. voc2yolo_converter.ipynb 사용 시 'annotation'이라는 폴더를 생성하고 그 안에 'jpg'와 'xml'파일을 두면 'yolo'폴더에 txt파일이 생기고 'annotation.txt'에 주소리스트 생성.
+2. 
