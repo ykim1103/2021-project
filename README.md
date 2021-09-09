@@ -13,6 +13,7 @@
 ###### kyjj9.py : 모듀9. 모듈8에서 매프레임별 캡쳐해서 저장 삭제. 프레임별로 폴더 만들어서 그 안에 프레임별 객체 저장.
 ###### obj.data : class, train,valid,names,backup의 정보가 담긴 파일
 ###### obj.names : 검출할 객체들의 이름을 모아둔 파일
+###### png to jpg.ipynb : png파일을 jpg로 변환
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
 ###### voc2yolo_converter.ipynb : yolo 학습을 위해 xml to txt 
 ###### yolo.ipynb : yolo 객체검출, cv2.dnn.readNet 사용, 파일리스트 출력, 다크넷 결과화면, 다크넷 명령어 정리
