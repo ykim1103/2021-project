@@ -15,6 +15,7 @@
 ###### obj.names : 검출할 객체들의 이름을 모아둔 파일
 ###### png to jpg.ipynb : png파일을 jpg로 변환
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
+###### txt class_name_change.ipynb : txt에 있는 class를 1에서 0으로 변환
 ###### txt class_name_change.ipynb : txt에 class번호가 1로 되어 있는 것을 0으로 수정
 ###### voc2yolo_converter.ipynb : yolo 학습을 위해 xml to txt 
 ###### yolo.ipynb : yolo 객체검출, cv2.dnn.readNet 사용, 파일리스트 출력, 다크넷 결과화면, 다크넷 명령어 정리
