@@ -14,6 +14,7 @@
 ###### kyjj9.py : 모듀9. 모듈8에서 매프레임별 캡쳐해서 저장 삭제. 프레임별로 폴더 만들어서 그 안에 프레임별 객체 저장.
 ###### obj.data : class, train,valid,names,backup의 정보가 담긴 파일
 ###### obj.names : 검출할 객체들의 이름을 모아둔 파일
+###### person_detection_file_copy.ipynb : xml에서 검출된것이 사람인것만 골라내는 코드, 파일 다른 곳으로 복사하는 코드
 ###### png to jpg.ipynb : png파일을 jpg로 변환
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
 ###### train_valid_txt.ipynb : 학습시킬 사진리스트를 모아둔 txt파일 생성하는 코드
