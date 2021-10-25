@@ -5,6 +5,7 @@
 ###### data_check.ipynb : 메타데이터(동영상)정보 확인하는 코드
 ###### encrypt_decrypt.ipynb : 암/복호화 코드
 ###### kyjj.py : 모듈1. 영상에 간단한 사각형 출력한 모듈
+###### kyjj10.py : 모듈10. 매 프레임별로 검출된 객체의 정보와 암호화한 key값, 파일의 메타정보, 블러처리한 영상이 출력되는 모듈
 ###### kyjj2.py : 모듈2. blobfromimage로 yolo 작업한 모듈
 ###### kyjj3.py : 모듈3. dnndetectionmodel로 객체 검출한 모듈
 ###### kyjj4.py : 모듈4. kyjj3.py에 블러 처리한 모듈
