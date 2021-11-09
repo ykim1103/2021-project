@@ -4,6 +4,7 @@
 ###### bdd_val.txt : validation 이미지 셋들의 리스트
 ###### data_check.ipynb : 메타데이터(동영상)정보 확인하는 코드
 ###### encrypt_decrypt.ipynb : 암/복호화 코드
+###### hadoop_download.ipynb : 하둡에 있는 파일을 로컬로 다운로드 하는 코드
 ###### kyjj.py : 모듈1. 영상에 간단한 사각형 출력한 모듈
 ###### kyjj10.py : 모듈10. 매 프레임별로 검출된 객체의 정보와 암호화한 key값, 파일의 메타정보, 블러처리한 영상이 출력되는 모듈
 ###### kyjj2.py : 모듈2. blobfromimage로 yolo 작업한 모듈
