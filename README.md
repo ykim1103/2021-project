@@ -21,7 +21,6 @@
 ###### png to jpg.ipynb : png파일을 jpg로 변환
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
 ###### train_valid_txt.ipynb : 학습시킬 사진리스트를 모아둔 txt파일 생성하는 코드
-###### txt class_name_change.ipynb : txt에 있는 class를 1에서 0으로 변환
 ###### txt class_name_change.ipynb : txt에 class번호가 1로 되어 있는 것을 0으로 수정
 ###### txt to xml.ipynb : txt형식 라벨링파일을 xml로 변환
 ###### voc2yolo_converter.ipynb : yolo 학습을 위해 xml to txt 
