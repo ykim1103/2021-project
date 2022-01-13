@@ -22,6 +22,7 @@
 ###### person_detection_file_copy.ipynb : xml에서 검출된것이 사람인것만 골라내는 코드, 파일 다른 곳으로 복사하는 코드
 ###### png to jpg.ipynb : png파일을 jpg로 변환
 ###### result1111.json : 테스트 시킨 결과를 저장한 json파일
+###### sql_jupyter_notebook.ipynb : 주피터에서 65번디비서버의 테이블을 64번 디비 서버에 옮기는 작업
 ###### train_valid_txt.ipynb : 학습시킬 사진리스트를 모아둔 txt파일 생성하는 코드
 ###### txt class_name_change.ipynb : txt에 class번호가 1로 되어 있는 것을 0으로 수정
 ###### txt to xml.ipynb : txt형식 라벨링파일을 xml로 변환
