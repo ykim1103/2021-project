@@ -1,5 +1,6 @@
-# YOLO
+# 2021/ 영상분석 프로젝트 코드
 
+###### auto_annotation&log.ipynb : 자동 아노테이션 코드, 로그파일 생성코드
 ###### bdd_train.txt : 트레인 시킬 이미지들의 리스트
 ###### bdd_val.txt : validation 이미지 셋들의 리스트
 ###### data_check.ipynb : 메타데이터(동영상)정보 확인하는 코드
